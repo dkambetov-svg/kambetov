@@ -18,7 +18,7 @@ const apiTokenInput = document.getElementById("api-token");
 const statusElement = document.getElementById("status");
 
 // Google Apps Script URL
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx9ek7YPMUcTg61twSIIrbXSlC78STfe2HmVeRz4nJ1jl2-dkTKp2tsUYE9ZLpwVNXGZQ/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyk410E3qkdF3cL6VnfFFen4jYpHFX38OnRzOZOAW2NDrur0joyaNz2ft2jil7bDftj0g/exec";
 
 // Initialize the app
 document.addEventListener("DOMContentLoaded", function () {
