@@ -6,7 +6,7 @@ const HF_MODEL_URL =
   "https://api-inference.huggingface.co/models/siebert/sentiment-roberta-large-english";
 
 const GAS_URL =
-  "https://script.google.com/macros/s/AKfycbzI6A8bOMnJnpyD44375gEUIDt_uCGj3Ny9B5larJ6KQtVq5vuG5YQQSrsnp_jat1s_/exec";
+  "https://script.google.com/macros/s/AKfycbwj9HJorsoeA_QrZpzKpTe82qZqY3QZMQ8zEFoFe263mBnF3kNriX0B8pgT9lOxPaIc/exec";
 
 /* =======================
    GLOBAL STATE
